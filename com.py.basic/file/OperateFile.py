@@ -5,7 +5,7 @@ class OperateFile:
     def __init__(self):
         self
 
-
+# http://www.pythontab.com/html/2018/pythonjichu_0131/1237.html
 # ======================== read 的3种方式
 
 # 方法1
